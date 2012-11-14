@@ -1,4 +1,4 @@
-GitToWindowsAzureDemo
-=====================
+WAWS-Demo
+=========
 
-A demo for deploying to windows azure using github.
+Just a demo for Windows Azure Web Site integration with GitHub.
